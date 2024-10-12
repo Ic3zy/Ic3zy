@@ -1,17 +1,16 @@
-## Hi there 👋
-### İ am Abdullah
+# 👋 Hello, I'm Ic3zy!
 
-<!--
-**abdullah5151/abdullah5151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## • I'm a passionate developer with a focus on open-source projects and building innovative solutions through Python and JavaScript. I thrive on exploring cutting-edge technologies and creating tools that improve daily workflows.
 
-Here are some ideas to get you started:
+# 🔧 Skills & Expertise:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### • Programming Languages: Python, JavaScript
+### • Frameworks & Tools: Node.js, Flask, Express.js
+### • Other Skills: APIs, Automation, Cloud Services
+### • 🌱 Currently learning: Advanced web automation and ADB integrations
+### • 💡 Interested in: Open-source contributions, Web automation, and API development
+
+## 🌐 Portfolio: https://t.me/lc3zy
+
+# 🤝 Let's connect!
+### • Feel free to reach out if you'd like to collaborate on a project or discuss anything tech-related!
