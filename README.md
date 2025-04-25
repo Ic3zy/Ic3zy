@@ -10,7 +10,7 @@
 ### • 🌱 Currently learning: Advanced web automation and ADB integrations
 ### • 💡 Interested in: Open-source contributions, Web automation, and API development
 
-## 🌐 Portfolio: https://t.me/lc3zy
-
+## 🌐 Portfolio: https://www.ic3zy.com.tr/portfolio
+## 🌐 My telegram: https://t.me/lc3zy
 # 🤝 Let's connect!
 ### • Feel free to reach out if you'd like to collaborate on a project or discuss anything tech-related!
