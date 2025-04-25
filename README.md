@@ -4,7 +4,7 @@
 
 # 🔧 Skills & Expertise:
 
-### • Programming Languages: Python, JavaScript
+### • Programming Languages: Python, JavaScript, c#, c++, rust
 ### • Frameworks & Tools: Node.js, Flask, Express.js
 ### • Other Skills: APIs, Automation, Cloud Services
 ### • 🌱 Currently learning: Advanced web automation and ADB integrations
